@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441250073338",
+    "project_id": "vrforestapp",
+    "storage_bucket": "vrforestapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441250073338:android:bbd82d16a73a3cb258d743",
+        "android_client_info": {
+          "package_name": "com.VrForest.VrForestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9M5PC8CR1lhekiwCZDlYfaW_jWuzdzZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
