@@ -7,6 +7,10 @@ Playlist Link:
 [https://youtube.com/playlist?list=PL7cITzoLfhbzPYVjYnW0R0CW5o3dEt35_](https://www.youtube.com/playlist?list=PLcidgIOd7ToGSBdMl8tyOB5KsyeRnpsCV)
 
 
+Unity project folder(Zip file) link (Myproject):
+https://drive.google.com/file/d/17YUvBLl8TpWU-7ekDvCWYCYFI0WyCgk_/view?usp=drive_link
+
+
 # VR Nature Escape – Safari & Beach in Unity:
 A VR experience to reduce anxiety and bring peace of mind through immersive nature environments.
 
