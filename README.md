@@ -1,5 +1,13 @@
 # Coping-With-Anxiety-Using-VR-Software-Engineering-Project
 
+# Team members:
+Tanish (SE22UARI173)
+Bramareshwar (SE22UARI214)
+Mokshajna (SE22UARI068)
+Akshat (SE22UARI012)
+Ojaswin (SE22UARI015)
+Ashish (SE22UARI064)
+
 Links to Apk Files since Files were to large to upload to github
 https://drive.google.com/drive/folders/1kHS40T3MU61BvcKHELO58momA1SPAK6c
 
